@@ -21,5 +21,5 @@ All projects are explained in <report.pdf>. and chapter number is in the title.
 
 
 ## - Rebuilding the PYNQ base overlay [2.1]
-Rebuilds the vivado base overlay, keeping only components neccesary for the video stream.
+Rebuilds the vivado base overlay, keeping only components neccesary for the video stream. All projects make use of this overlay. The full vivado 2016.2 project can be found here.
 
