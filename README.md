@@ -20,6 +20,6 @@ sudo -H pip install --upgrade 'git+https://github.com/Pieter-Berteloot/PYNQ_Proj
 All projects are explained in <report.pdf>. and chapter number is in the title. 
 
 
-## Rebuilding the PYNQ base overlay [2.1]
+## - Rebuilding the PYNQ base overlay [2.1]
 Rebuilds the vivado base overlay, keeping only components neccesary for the video stream.
 
