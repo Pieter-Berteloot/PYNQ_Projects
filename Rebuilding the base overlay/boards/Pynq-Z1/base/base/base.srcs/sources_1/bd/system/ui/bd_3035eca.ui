@@ -1,0 +1,59 @@
+{
+   guistr: "# # String gsaved with Nlview 6.5.12  2016-01-29 bk=1.3547 VDI=39 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port ctrl -pg 1 -y 370 -defaultsOSRD
+preplace port TMDS -pg 1 -y 350 -defaultsOSRD
+preplace port overflow -pg 1 -y 450 -defaultsOSRD
+preplace port locked -pg 1 -y 430 -defaultsOSRD
+preplace port ap_clk -pg 1 -y 80 -defaultsOSRD
+preplace port in_stream -pg 1 -y 60 -defaultsOSRD
+preplace port slowest_sync_clk -pg 1 -y 530 -defaultsOSRD
+preplace port aux_reset_in -pg 1 -y 450 -defaultsOSRD
+preplace port control -pg 1 -y 490 -defaultsOSRD
+preplace port s_axi_AXILiteS1 -pg 1 -y 190 -defaultsOSRD
+preplace port s_axi_AXILiteS -pg 1 -y 40 -defaultsOSRD
+preplace port S_AXI -pg 1 -y 350 -defaultsOSRD
+preplace port underflow -pg 1 -y 530 -defaultsOSRD
+preplace port s00_axi -pg 1 -y 390 -defaultsOSRD
+preplace port ip2intc_irpt -pg 1 -y 390 -defaultsOSRD
+preplace port irq -pg 1 -y 410 -defaultsOSRD
+preplace port ext_reset_in -pg 1 -y 470 -defaultsOSRD
+preplace portBus status -pg 1 -y 510 -defaultsOSRD
+preplace portBus peripheral_aresetn -pg 1 -y 470 -defaultsOSRD
+preplace portBus ap_rst_n_control -pg 1 -y 510 -defaultsOSRD
+preplace portBus ap_rst_n -pg 1 -y 100 -defaultsOSRD
+preplace portBus peripheral_reset -pg 1 -y 490 -defaultsOSRD
+preplace portBus gpio_io_o -pg 1 -y 370 -defaultsOSRD
+preplace inst axis_register_slice_0 -pg 1 -lvl 2 -y 260 -defaultsOSRD
+preplace inst frontend -pg 1 -lvl 4 -y 440 -defaultsOSRD
+preplace inst color_convert -pg 1 -lvl 3 -y 240 -defaultsOSRD
+preplace inst pixel_unpack -pg 1 -lvl 1 -y 90 -defaultsOSRD
+preplace netloc Conn1 1 4 1 NJ
+preplace netloc Conn2 1 0 4 NJ 370 NJ 370 NJ 370 NJ
+preplace netloc processing_system7_0_axi_periph_M08_AXI 1 0 4 NJ 390 NJ 390 NJ 390 NJ
+preplace netloc pixel_unpack_out_stream 1 1 1 290
+preplace netloc status 1 4 1 NJ
+preplace netloc hdmi_out_hpd_video_ip2intc_irpt 1 4 1 NJ
+preplace netloc hdmi_out_hpd_video_gpio_io_o 1 4 1 NJ
+preplace netloc axi_vdma_0_M_AXIS_MM2S 1 0 1 NJ
+preplace netloc v_tc_0_irq 1 4 1 NJ
+preplace netloc overflow 1 4 1 NJ
+preplace netloc locked 1 4 1 NJ
+preplace netloc frontend_peripheral_aresetn 1 4 1 NJ
+preplace netloc Conn7 1 0 3 NJ 190 NJ 190 NJ
+preplace netloc rst_processing_system7_0_100M_peripheral_aresetn 1 0 3 20 280 280 340 510
+preplace netloc Conn8 1 0 1 NJ
+preplace netloc processing_system7_0_axi_periph_M06_AXI 1 0 4 NJ 350 NJ 350 NJ 350 NJ
+preplace netloc underflow 1 4 1 NJ
+preplace netloc ext_reset_in_1 1 0 4 NJ 470 NJ 470 NJ 470 NJ
+preplace netloc video_in_1 1 3 1 760
+preplace netloc Net1 1 0 4 NJ 510 NJ 510 NJ 510 NJ
+preplace netloc Net 1 0 4 NJ 490 NJ 490 NJ 490 NJ
+preplace netloc aclk_1 1 0 4 30 260 290 330 500 430 NJ
+preplace netloc axis_register_slice_0_M_AXIS 1 2 1 490
+preplace netloc slowest_sync_clk_1 1 0 4 NJ 530 NJ 530 NJ 530 NJ
+preplace netloc frontend_peripheral_reset 1 4 1 NJ
+preplace netloc aux_reset_in_1 1 0 4 NJ 450 NJ 450 NJ 450 NJ
+levelinfo -pg 1 0 160 400 640 920 1100 -top 0 -bot 580
+",
+}

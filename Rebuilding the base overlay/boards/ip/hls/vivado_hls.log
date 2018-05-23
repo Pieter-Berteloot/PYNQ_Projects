@@ -1,0 +1,81 @@
+================================================================
+  Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC
+  Version 2016.1
+  Build 1538259 on Fri Apr 08 16:12:49 MDT 2016
+  Copyright (C) 1986-2016 Xilinx, Inc. All Rights Reserved.
+================================================================
+INFO: [HLS 200-10] Running 'C:/Xilinx/VIVADO~1/2016.1/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'Pieter' on host 'pieterberteloot' (Windows NT_amd64 version 6.2) on Tue Apr 24 12:47:54 +0200 2018
+INFO: [HLS 200-10] In directory 'C:/Pynq2/PYNQ-master/boards/ip/hls'
+INFO: [HLS 200-10] Opening project 'C:/Pynq2/PYNQ-master/boards/ip/hls/trace_cntrl'.
+INFO: [HLS 200-10] Adding design file 'trace_cntrl/trace_cntrl.cpp' to the project
+INFO: [HLS 200-10] Opening solution 'C:/Pynq2/PYNQ-master/boards/ip/hls/trace_cntrl/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
+INFO: [HLS 200-10] Analyzing design file 'trace_cntrl/trace_cntrl.cpp' ... 
+INFO: [HLS 200-10] Validating synthesis directives ...
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-10] Checking synthesizability ...
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'B.data.V' (trace_cntrl/trace_cntrl.cpp:4).
+WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'A.data.V' (trace_cntrl/trace_cntrl.cpp:4).
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (trace_cntrl/trace_cntrl.cpp:16:29) to (trace_cntrl/trace_cntrl.cpp:21:3) in function 'trace_cntrl'... converting 3 basic blocks.
+INFO: [HLS 200-111] Elapsed time: 52.581 seconds; current memory usage: 89.4 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'trace_cntrl' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Scheduling module 'trace_cntrl' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining loop 'Loop 1'.
+INFO: [SCHED 204-61] Pipelining result: Target II: 1, Final II: 1, Depth: 2.
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Elapsed time: 0.119 seconds; current memory usage: 90.5 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Exploring micro-architecture for module 'trace_cntrl' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Elapsed time: 0.11 seconds; current memory usage: 90.6 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'trace_cntrl' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_data_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_keep_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_strb_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_user_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_last_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_id_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/A_dest_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_data_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_keep_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_strb_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_user_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_last_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_id_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/B_dest_V' to 'axis'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/data_compare_V' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'trace_cntrl/length_r' to 's_axilite & ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'trace_cntrl' to 's_axilite & ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Bundling port 'return', 'data_compare_V' and 'length_r' to AXI-Lite port trace_cntrl.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'trace_cntrl'.
+INFO: [HLS 200-111] Elapsed time: 0.15 seconds; current memory usage: 90.5 MB.
+INFO: [HLS 200-10] Finished generating all RTL models.
+INFO: [SYSC 207-301] Generating SystemC RTL for trace_cntrl.
+INFO: [VHDL 208-304] Generating VHDL RTL for trace_cntrl.
+INFO: [VLOG 209-307] Generating Verilog RTL for trace_cntrl.
+INFO: [IMPL 213-8] Exporting RTL as an IP in IP-XACT.
+
+****** Vivado v2016.1 (64-bit)
+  **** SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+  **** IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+    ** Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.1/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 24 12:49:00 2018...
+INFO: [HLS 200-112] Total elapsed time: 80.623 seconds; peak memory usage: 92.1 MB.

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Wed May 23 01:11:12 2018
+# Process ID: 15448
+# Current directory: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9652 C:\Pynq2\PYNQ-master\boards\Pynq-Z1\base\base\base.xpr
+# Log file: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base/vivado.log
+# Journal file: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 23 01:16:05 2018...

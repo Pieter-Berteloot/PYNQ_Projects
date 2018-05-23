@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Tue Apr 24 11:27:11 2018
+# Process ID: 14140
+# Current directory: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base
+# Command line: vivado.exe -mode batch -source build_base_ip.tcl
+# Log file: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/vivado.log
+# Journal file: C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base\vivado.jou
+#-----------------------------------------------------------
+source build_base_ip.tcl

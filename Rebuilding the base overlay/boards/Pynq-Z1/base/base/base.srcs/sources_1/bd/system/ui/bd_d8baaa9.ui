@@ -1,0 +1,64 @@
+{
+   guistr: "# # String gsaved with Nlview 6.5.12  2016-01-29 bk=1.3547 VDI=39 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port out_stream -pg 1 -y 230 -defaultsOSRD
+preplace port PixelClk -pg 1 -y 420 -defaultsOSRD
+preplace port ctrl -pg 1 -y 400 -defaultsOSRD
+preplace port TMDS -pg 1 -y 380 -defaultsOSRD
+preplace port ap_clk -pg 1 -y 190 -defaultsOSRD
+preplace port aPixelClkLckd -pg 1 -y 440 -defaultsOSRD
+preplace port RefClk -pg 1 -y 420 -defaultsOSRD
+preplace port control -pg 1 -y 480 -defaultsOSRD
+preplace port s_axi_AXILiteS1 -pg 1 -y 50 -defaultsOSRD
+preplace port s_axi_AXILiteS -pg 1 -y 170 -defaultsOSRD
+preplace port S_AXI -pg 1 -y 360 -defaultsOSRD
+preplace port s_axi_AXILiteS2 -pg 1 -y 120 -defaultsOSRD
+preplace port ip2intc_irpt -pg 1 -y 480 -defaultsOSRD
+preplace port irq -pg 1 -y 500 -defaultsOSRD
+preplace port DDC -pg 1 -y 380 -defaultsOSRD
+preplace portBus resetn -pg 1 -y 460 -defaultsOSRD
+preplace portBus ap_rst_n_control -pg 1 -y 500 -defaultsOSRD
+preplace portBus ap_rst_n -pg 1 -y 210 -defaultsOSRD
+preplace portBus vid_io_in_reset -pg 1 -y 520 -defaultsOSRD
+preplace portBus gpio_io_o -pg 1 -y 460 -defaultsOSRD
+preplace inst pixel_pack -pg 1 -lvl 4 -y 230 -defaultsOSRD
+preplace inst filter_0 -pg 1 -lvl 2 -y 200 -defaultsOSRD
+preplace inst axis_register_slice_0 -pg 1 -lvl 3 -y 200 -defaultsOSRD
+preplace inst frontend -pg 1 -lvl 1 -y 440 -defaultsOSRD
+preplace inst color_convert -pg 1 -lvl 1 -y 220 -defaultsOSRD
+preplace netloc color_convert_out_data_TUSER 1 1 1 420
+preplace netloc filter_0_input_r_TREADY 1 1 1 380
+preplace netloc axi_gpio_video_ip2intc_irpt 1 1 4 N 480 NJ 480 NJ 480 NJ
+preplace netloc Conn3 1 0 1 NJ
+preplace netloc TMDS_1 1 0 1 NJ
+preplace netloc processing_system7_0_axi_periph_M07_AXI 1 0 1 NJ
+preplace netloc axis_register_slice_0_s_axis_tready 1 2 1 800
+preplace netloc filter_0_output_r_TVALID 1 2 1 790
+preplace netloc color_convert_out_data_TDATA 1 1 1 400
+preplace netloc Conn5 1 0 4 NJ 40 NJ 40 NJ 40 NJ
+preplace netloc in_pixelformat_M00_AXIS 1 4 1 NJ
+preplace netloc frontend_DDC 1 1 4 N 380 NJ 380 NJ 380 NJ
+preplace netloc hdmi_in_video_out 1 0 2 40 110 NJ
+preplace netloc Conn6 1 0 1 NJ
+preplace netloc RefClk_1 1 0 1 NJ
+preplace netloc filter_0_output_r_TUSER 1 2 1 N
+preplace netloc filter_0_output_r_TDATA 1 2 1 810
+preplace netloc v_tc_1_irq 1 1 4 N 500 NJ 500 NJ 500 NJ
+preplace netloc rst_processing_system7_0_100M_peripheral_aresetn 1 0 4 20 90 390 60 840 60 1110
+preplace netloc resetn_1 1 0 1 NJ
+preplace netloc dvi2rgb_0_aPixelClkLckd 1 1 4 N 440 NJ 440 NJ 440 NJ
+preplace netloc vid_io_in_reset_1 1 0 1 NJ
+preplace netloc s_axi_AXILiteS2_1 1 0 2 NJ 120 NJ
+preplace netloc Net1 1 0 1 NJ
+preplace netloc Net 1 0 1 NJ
+preplace netloc color_convert_out_data_TLAST 1 1 1 430
+preplace netloc axi_gpio_video_gpio_io_o 1 1 4 N 460 NJ 460 NJ 460 NJ
+preplace netloc aclk_1 1 0 4 30 80 410 70 830 80 1100
+preplace netloc axis_register_slice_0_M_AXIS 1 3 1 N
+preplace netloc filter_0_output_r_TLAST 1 2 1 820
+preplace netloc color_convert_out_data_TVALID 1 1 1 370
+preplace netloc dvi2rgb_0_PixelClk 1 1 4 N 420 NJ 420 NJ 420 NJ
+levelinfo -pg 1 0 200 610 970 1250 1390 -top 0 -bot 590
+",
+}
+0

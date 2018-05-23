@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Tue Apr 24 14:19:53 2018
+# Process ID: 14504
+# Current directory: c:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base
+# Command line: wbtcv.exe -mode batch -source C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base/base.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: c:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base/webtalk.log
+# Journal file: c:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base\webtalk.jou
+#-----------------------------------------------------------
+source C:/Pynq2/PYNQ-master/boards/Pynq-Z1/base/base/base.hw/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 24 14:19:53 2018...
