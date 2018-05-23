@@ -39,7 +39,7 @@ Create and implement a simple Adder overlay
 **Project output:**
 - 3 + 5 = 8
 
-## - First video processing - Screen splitter [3.2]
+## - First video processing - Screen splitter [3.2.1]
 Create and implement a simple video processing overlay: screen splitter
 
 **Project inlcudes:**
