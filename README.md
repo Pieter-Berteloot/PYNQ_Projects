@@ -51,3 +51,15 @@ Create and implement a simple video processing overlay: screen splitter
 
 <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp" width="350">  <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_output.bmp" width="350" align="right">
 
+## - Screen splitter 2 [3.2.1]
+Create and implement a simple video processing overlay: screen splitter 2
+
+**Objective**: performing operations on input stream: RGB to Gray
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Notebook
+
+**Project Input and Output:**
+
