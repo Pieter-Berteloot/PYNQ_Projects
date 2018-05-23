@@ -51,6 +51,5 @@ Create and implement a simple video processing overlay: screen splitter
 include pictures
 
 
-![alt text]( | width=100)
+<img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp" width="350"> -> <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_output.bmp" width="350">
 
-![](https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp | width=100)
