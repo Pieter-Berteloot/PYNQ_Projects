@@ -60,6 +60,7 @@ Running the C simulator in HLS with image input and output
 - HLS code + testbench
 
 **Project Input and Output:**
+
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/C%20simulation/Images/test_1080p.bmp" width="350">  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/C%20simulation/Images/test_output_1080p.bmp" width="350" align="right">
 
 
