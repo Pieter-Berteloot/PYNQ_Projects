@@ -1,4 +1,0 @@
-ERROR: Exception caught trying to open file C:\Pynq2\PYNQ-master\boards\Pynq-Z1\base\base\base.runs\synth_1/runme.log
-	Exception name: Error
-	Exception error code: 70
-	Exception message: Toegang geweigerd
