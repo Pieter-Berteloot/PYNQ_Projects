@@ -1,6 +1,6 @@
 # PYNQ_Projects
 
-This repository is a full step-by-step guide for creating a video processing hardware overlay. All pojects are made in **Vivado 2016.2** and tested on **PYNQ V2.1 image**.
+This repository is a full step-by-step guide for creating a video processing hardware overlay. All pojects are made in **Vivado 2016.2** and tested on **PYNQ V2.1 image**. All the projects are explained in detail in report.pdf. The user should be able to recreate the projects with this information.
 
 ## Interesting websites
 - http://www.pynq.io
