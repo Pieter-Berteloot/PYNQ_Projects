@@ -48,5 +48,6 @@ Create and implement a simple video processing overlay: screen splitter
 - Notebook
 
 **Project Input and Output:**
+
 <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp" width="350">  <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_output.bmp" width="350" align="right">
 
