@@ -38,3 +38,14 @@ Create and implement a simple Adder overlay
 
 **Project output:**
 - 3 + 5 = 8
+
+## - First video processing - Screen splitter [3.2]
+Create and implement a simple video processing overlay: screen splitter
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Adder notebook
+
+**Project output:**
+- 3 + 5 = 8
