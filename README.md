@@ -20,6 +20,32 @@ sudo -H pip install --upgrade 'git+https://github.com/Pieter-Berteloot/PYNQ_Proj
 All projects are explained in <report.pdf>. and chapter number is in the title. 
 
 
-## - Rebuilding the PYNQ base overlay [2.1]
-Rebuilds the vivado base overlay, keeping only components neccesary for the video stream. All projects make use of this overlay. The full vivado 2016.2 project can be found here.
+## - Rebuilding the PYNQ base overlay [2.2]
+Rebuilds the vivado base overlay, keeping only components neccesary for the video stream. All projects make use of this overlay.
+Project inlcudes:
+- Full vivdado base overlay
+- Bit & tcl file
+- test notebook
 
+
+## - Our first overlay - Adder [2.3]
+Create and implement a simple Adder overlay
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Adder notebook
+
+**Project output:**
+- 3 + 5 = 8
+
+## - First video processing - Screen splitter [3.2.1]
+Create and implement a simple video processing overlay: screen splitter
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Notebook
+
+**Project output:**
+include pictures
