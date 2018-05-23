@@ -49,3 +49,7 @@ Create and implement a simple video processing overlay: screen splitter
 
 **Project output:**
 include pictures
+
+
+![alt text](https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp)
+
