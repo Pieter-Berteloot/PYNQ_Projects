@@ -51,7 +51,19 @@ Create and implement a simple video processing overlay: screen splitter
 
 <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_input.bmp" width="350">  <img src="https://raw.githubusercontent.com/Pieter-Berteloot/PYNQ_Projects/master/Video%20Processing/Split/Images/test_1080p_output.bmp" width="350" align="right">
 
-## - Screen splitter 2 [3.2.1]
+## - C simulation [3.2.2]
+Running the C simulator in HLS with image input and output
+
+**Objective**: create a test bench that can read an image, pass it through our IP, and save the image.
+
+**Project inlcudes:**
+- HLS code + testbench
+
+**Project Input and Output:**
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/C%20simulation/Images/test_1080p.bmp" width="350">  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/C%20simulation/Images/test_output_1080p.bmp" width="350" align="right">
+
+
+## - Screen splitter 2 [3.2.3]
 Create and implement a simple video processing overlay: screen splitter 2
 
 **Objective**: performing operations on input stream: RGB to Gray
