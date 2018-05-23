@@ -30,10 +30,11 @@ Project inlcudes:
 
 ## - Our first overlay - Adder [2.3]
 Create and implement a simple Adder overlay
-Project inlcudes
+
+**Project inlcudes:**
 - hls code
 - Bit & tcl file
 - Adder notebook
 
-Output:
+**Project output:**
 - 3 + 5 = 8
