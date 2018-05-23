@@ -45,7 +45,7 @@ Create and implement a simple video processing overlay: screen splitter
 **Project inlcudes:**
 - hls code
 - Bit & tcl file
-- Adder notebook
+- Notebook
 
 **Project output:**
-- 3 + 5 = 8
+include pictures
