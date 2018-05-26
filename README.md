@@ -76,3 +76,4 @@ Create and implement a simple video processing overlay: screen splitter 2
 
 **Project Input and Output:**
 
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_1080p.bmp" width="350">  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_output_1080p.bmp" width="350" align="right">
