@@ -91,6 +91,10 @@ Create and implement a simple video filter: sobel x or y
 
 **Project Input and Output:**
 
-<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_1080p.bmp" width="350" align="center">
+<p align="center">
+  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_1080p.bmp" width="350">
+</p>
+
+
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/Sobel%20x%20or%20y/Images/test_output_1080p_x.bmp?raw=true" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/Sobel%20x%20or%20y/Images/test_output_1080p_y.bmp?raw=true" width="350" align="right">
