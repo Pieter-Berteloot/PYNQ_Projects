@@ -77,3 +77,20 @@ Create and implement a simple video processing overlay: screen splitter 2
 **Project Input and Output:**
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_1080p.bmp" width="350">  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/GraySplit/Images/test_output_1080p.bmp" width="350" align="right">
+
+
+## - Sobel x or y [4.2]
+Create and implement a simple video filter: sobel x or y
+
+**Objective**: Sobel edge detection horizontally or vertically
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Notebook
+
+**Project Input and Output:**
+
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/Sobel%20x%20or%20y/Images/test_1080p.bmp" width="350">  
+
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/Sobel%20x%20or%20y/Images/test_output_1080p_x" width="350">  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Video%20Processing/Sobel%20x%20or%20y/Images/test_output_1080p_y" width="350" align="right">
