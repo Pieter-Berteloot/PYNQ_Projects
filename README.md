@@ -127,5 +127,5 @@ Create and implement an IP which can sharpen a video signal.
 **Project Input and Outputs:**
 
 
-<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_1080p.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_output_1080p.bmp" width="350" align="right">
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_1080p.bmp" width="500"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_output_1080p.bmp" width="500" align="right">
 
