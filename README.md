@@ -11,7 +11,7 @@ This repository is a full step-by-step guide for creating a video processing har
 - https://www.xilinx.com/support/documentation/sw_manuals/xilinx2015_4/ug902-vivado-high-level-synthesis.pdf
 
 ## Information
-Each project is documented in <een pdf met report hier>. All the HLS, bit, tcl and notebook files can be found in the sub-directory.
+Each project is documented in report.pdf. All the HLS, bit, tcl and notebook files can be found in the sub-directory.
 These can be easily imported onto your own PYNQ device using the following code in the terminal.
 
 sudo -H pip install --upgrade 'git+https://github.com/Pieter-Berteloot/PYNQ_Projects/<project>'
