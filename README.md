@@ -111,11 +111,8 @@ Create and implement an IP which can split the screen in half en perform Sobel o
 
 **Project Input and Outputs:**
 
-<p align="center">
-  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/input.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sobel.bmp" width="350" align="right">
-</p>
 
-
+  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Input.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sobel.bmp" width="350" align="right">
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/RGB-Sobel.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sharpen.bmp" width="350" align="right">
 
@@ -134,5 +131,4 @@ Create and implement an IP which can sharpen a video signal.
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_1080p" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_output_1080p" width="350" align="right">
 
-
-
+>>>>>>> f90a57a0af9d0cb3690b19e2255fd26ed6859d45
