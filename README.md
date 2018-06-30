@@ -102,7 +102,7 @@ Create and implement a simple video filter: sobel x or y
 
 
 ## - Sobel_Split IP [5]
-Create and implement a simple IP which can split the screen in half en perform Sobel operations.
+Create and implement an IP which can split the screen in half en perform Sobel operations.
 
 **Project inlcudes:**
 - hls code
@@ -118,3 +118,21 @@ Create and implement a simple IP which can split the screen in half en perform S
 
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/RGB-Sobel.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sharpen.bmp" width="350" align="right">
+
+
+
+## - Sharpening_IP[5]
+Create and implement an IP which can sharpen a video signal.
+
+**Project inlcudes:**
+- hls code
+- Bit & tcl file
+- Notebook
+
+**Project Input and Outputs:**
+
+
+<img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_1080p" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sharpening/Images/test_output_1080p" width="350" align="right">
+
+
+
