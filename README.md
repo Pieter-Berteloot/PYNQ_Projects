@@ -112,9 +112,7 @@ Create and implement a simple IP which can split the screen in half en perform S
 **Project Input and Outputs:**
 
 <p align="center">
-  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/input.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sobel.bmp" width="350" align="right">
+  <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Input.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sobel.bmp" width="350" align="right">
 </p>
-
-
 
 <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/RGB-Sobel.bmp" width="350"> <img src="https://github.com/Pieter-Berteloot/PYNQ_Projects/blob/master/Sobel_IP/Images/Sharpen.bmp" width="350" align="right">
