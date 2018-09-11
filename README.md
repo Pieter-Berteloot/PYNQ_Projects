@@ -12,9 +12,7 @@ This repository is a full step-by-step guide for creating a video processing har
 
 ## Information
 Each project is documented in report.pdf. All the HLS, bit, tcl and notebook files can be found in the sub-directory.
-These can be easily imported onto your own PYNQ device using the following code in the terminal.
-
-sudo -H pip install --upgrade 'git+https://github.com/Pieter-Berteloot/PYNQ_Projects/<project>'
+These can be easily imported onto your own PYNQ device.
 
 # Project list
 All projects are explained in <report.pdf>. and chapter number is in the title. 
